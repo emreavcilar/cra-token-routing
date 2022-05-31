@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "target": "es6",
+    "module":"commonJS",
+    "moduleResolution": "classic",
+    "jsx": "react"
+  },
+  "include": ["src"]
+}
